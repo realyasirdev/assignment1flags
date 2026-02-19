@@ -1,0 +1,105 @@
+flag-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.flag-box-austria {
+  width: 300px;
+  height: 180px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.stripe-at {
+  height: 33.33%;
+  width: 100%;
+}
+
+.red-at {
+  background-color: #EF3340;
+}
+
+.white-at {
+  background-color: #FFFFFF;
+}
+.mali-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.flag-box-mali {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+}
+
+h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.v-stripe {
+  height: 100%;
+  width: 33.33%;
+}
+
+.green-mali {
+  background-color: #14B53A;
+}
+
+.yellow-mali {
+  background-color: #FCD116;
+}
+
+.red-mali {
+  background-color: #CE1126;
+}
+[3:45 PM, 2/19/2026] imran corvit: iv>
+[3:45 PM, 2/19/2026] imran corvit: .sierra-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.flag-box-sl {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.stripe-sl {
+  height: 33.33%;
+  width: 100%;
+}
+
+.green-sl {
+  background-color: #1EB53A;
+}
+
+.white-sl {
+  background-color: #FFFFFF;
+}
+
+.blue-sl {
+  background-color: #0072C6;
+}
